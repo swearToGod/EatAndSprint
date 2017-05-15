@@ -1,11 +1,11 @@
 # EatAndSprint  
-#This group was created because [OSG-TEAMS](https://github.com/r0ysue/OSG-TEAMS)  
+# Origin :  
+[https://github.com/r0ysue/OSG-TEAMS](https://github.com/r0ysue/OSG-TEAMS)  
 
+# Competition process :
+![](https://github.com/swearToGod/EatAndSprint/blob/master/teams.jpg)
 
-#Competition process  
-!()[https://github.com/swearToGod/EatAndSprint/blob/master/teams.jpg]
-
-#List of members:  
+# List of members :  
 ```
   布兜儿,
   AloneMonkey,
@@ -14,4 +14,4 @@
   kiba,
   chen
 ```
-#Have a good day.  
+# Have a good day.  
